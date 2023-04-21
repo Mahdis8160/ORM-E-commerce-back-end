@@ -22,15 +22,6 @@ The goal of this project is to showcase using ORM's functionality and use a REST
 - sequelize package
 - insomnia
 
-## Functionality
-
-#### Walkthrough of using the terminal to create a database, seed the database and start the server
-
-![screencap1](./assets/screencap1.gif)
-
-#### Walkthrough of using Insomnia to make requests to the server
-
-![screencap2](./assets/screencap2.gif)
 
 ## Challenges
 
