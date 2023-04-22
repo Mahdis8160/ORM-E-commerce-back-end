@@ -26,3 +26,17 @@ The goal of this project is to showcase using ORM's functionality and use a REST
 ## Challenges
 
 The major challenge faced when creating this application was figuring out how to get the requests to run without returning 400 errors
+
+
+### Walkthrough video link:
+
+https://drive.google.com/file/d/15I8wXwiLiy6JJpbPSJxmptI-aaAL_Kfp/view
+
+
+
+#### Github repository link:
+
+https://github.com/Mahdis8160/ORM-E-commerce-back-end
+
+
+
